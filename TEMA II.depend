@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1684318719 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema ii\alerta.cpp
+	"Alerta.h"
+
+1685085791 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema ii\alerta.h
+	"Mesaj.h"
+
+1684318719 c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema ii\mesaj.h
+	<string>
+
+1684318719 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema ii\main.cpp
+	<iostream>
+	"Mesaj.h"
+	"Alerta.h"
+
+1684318719 source:c:\users\cataf\onedrive\desktop\iesc\anul i\semestrul ii\poo\tema ii\mesaj.cpp
+	"Mesaj.h"
+
